@@ -1,2 +1,2 @@
 # flutter_sequence_image_loader
-load seuquences of images 
+load seuquences of images in flutter
